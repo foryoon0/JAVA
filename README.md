@@ -1,12 +1,1 @@
-# 가영 GA YOUNG
-
-
-<br>
-
-## Work experience 🤹‍♀️
--
--
-
-## Interest 👀
-- 
-- 
+JAVA 기초
